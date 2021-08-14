@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringbootBuildingblockApplication {
 
-	//test tes
+	//test tesf
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootBuildingblockApplication.class, args);
 	}
