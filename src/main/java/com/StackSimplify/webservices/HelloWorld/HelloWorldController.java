@@ -10,6 +10,6 @@ public class HelloWorldController {
 	@RequestMapping(method=RequestMethod.GET, path="/hello")
 	public String hello()
 	{
-		return "Hi Vishal" ;
+		return "Hi Vishal branch" ;
 	}
 }
